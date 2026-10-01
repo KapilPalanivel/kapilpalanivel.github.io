@@ -4,10 +4,10 @@
 
 This domain hosts the Clavis website. Full, up-to-date details for AI assistants (features, plans, security design, version):
 
-- [Clavis — full llms.txt](https://kapilpalanivel.github.io/clavis/llms.txt)
-- [Website](https://kapilpalanivel.github.io/clavis/)
-- [Download](https://kapilpalanivel.github.io/clavis/download.html)
-- [Security, in plain English](https://kapilpalanivel.github.io/clavis/security.html)
-- [Pricing](https://kapilpalanivel.github.io/clavis/pricing.html)
+- [Clavis — full llms.txt](https://clavisenc.com/llms.txt)
+- [Website](https://clavisenc.com/)
+- [Download](https://clavisenc.com/download.html)
+- [Security, in plain English](https://clavisenc.com/security.html)
+- [Pricing](https://clavisenc.com/pricing.html)
 
 Contact: clavis.enc@gmail.com

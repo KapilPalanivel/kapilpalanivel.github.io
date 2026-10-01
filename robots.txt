@@ -1,4 +1,4 @@
-# kapilpalanivel.github.io - home of Clavis (https://kapilpalanivel.github.io/clavis/).
+# kapilpalanivel.github.io - home of Clavis (now at https://clavisenc.com/).
 # Search engines and AI/answer engines are welcome to read and cite every page.
 
 User-agent: *
@@ -31,4 +31,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://kapilpalanivel.github.io/clavis/sitemap.xml
+Sitemap: https://clavisenc.com/sitemap.xml
