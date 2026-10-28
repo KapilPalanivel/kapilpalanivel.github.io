@@ -1,13 +1,4 @@
-# Clavis
+# Moved
 
-> Clavis is a file-encryption app for Windows 10 and 11 (and Linux, as a .deb package), made by Kapil Palanivel. It encrypts files on the user's own PC with AES-256-GCM, deriving keys from the user's password with Argon2id. There is no account and no cloud: files, passwords and recovery keys are never uploaded, so only the user holds the key.
-
-This domain hosts the Clavis website. Full, up-to-date details for AI assistants (features, plans, security design, version):
-
-- [Clavis — full llms.txt](https://clavisenc.com/llms.txt)
-- [Website](https://clavisenc.com/)
-- [Download](https://clavisenc.com/download.html)
-- [Security, in plain English](https://clavisenc.com/security.html)
-- [Pricing](https://clavisenc.com/pricing.html)
-
-Contact: clavis.enc@gmail.com
+This address only forwards to https://clavisenc.com/ .
+For Clavis Encrypt (file encryption for Windows and Linux) see https://clavisenc.com/llms.txt
